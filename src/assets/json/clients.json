@@ -1,0 +1,20 @@
+[
+    {
+        "img": "./image-emily.jpg",
+        "testimonio": "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.",
+        "nombre": "Emily R.",
+        "puesto": "Marketing Director"
+    },
+    {
+        "img": "./image-thomas.jpg",
+        "testimonio": "Sunnyside¿s enthusiasm coupled with their keen interest in our brand's success made it a satisfying and enjoyable experience.",
+        "nombre": "Thomas S.",
+        "puesto": "Chief Operating Officer"
+    },
+    {
+        "img": "./image-jennie.jpg",
+        "testimonio": "Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
+        "nombre": "Jennie F.",
+        "puesto": "Business Owner"
+    }
+]

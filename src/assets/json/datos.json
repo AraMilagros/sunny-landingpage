@@ -1,0 +1,26 @@
+[
+    {
+        "img": "./image-transform.jpg",
+        "titulo": "Transform your brand",
+        "descripcion": "We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.",
+        "type": "image"
+    },
+    {
+        "img": "./image-stand-out.jpg",
+        "titulo": "Stand out to the right audience",
+        "descripcion": "Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we'll build and extend your brand in digital places.",
+        "type": "image"
+    },
+    {
+        "img": "./image-graphic-design.jpg",
+        "titulo": "Graphic Design",
+        "descripcion": "Great design makes you memorable. We deliver artworkk that underscores your brand message and captures potential clients'attention.",
+        "type": "text"
+    },
+    {
+        "img": "./image-photography.jpg",
+        "titulo": "Photography",
+        "descripcion": "Increase your credibility by getting the most stunning, high-quality photos that improve your businnes image.",
+        "type": "text"
+    }
+]
