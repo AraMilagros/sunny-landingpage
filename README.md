@@ -3,7 +3,7 @@ Challenge [Sunnyside agency landing page challenge on Frontend Mentor](https://w
 
 Links
 - Solution URL: [This repository](https://github.com/AraMilagros/Dashboard-social-media.git)
-- Live Site URL: [Live](https://sunnypage.netlify.app/)
+- Live Site URL: [Live](https://sunnypage90.netlify.app/)
 
 
 Captura en su versión movil
