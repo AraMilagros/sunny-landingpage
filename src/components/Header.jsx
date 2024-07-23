@@ -10,7 +10,7 @@ export default function Header() {
             <h1 className='header__tittle'>WE ARE CREATIVES</h1>
             <i className="icon-arrow fa-solid fa-arrow-down-long"></i>
         </div> 
-        <img className="header__img" src={imgPC} alt="" />
+        <img className="header__img" src={imgPC} alt="header img" />
     </Div>
   )
 }

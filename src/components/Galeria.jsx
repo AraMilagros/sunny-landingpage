@@ -6,10 +6,10 @@ const imagen = require.context('../assets/img/mobile', true);
 export default function Galeria() {
   return (
     <Div>
-      <div className='item'><img src={imagen('./image-gallery-milkbottles.jpg')} alt="" /></div>
-      <div className='item'><img src={imagen('./image-gallery-orange.jpg')} alt="" /></div>
-      <div className='item'><img src={imagen('./image-gallery-cone.jpg')} alt="" /></div>        
-      <div className='item'><img src={imagen('./image-gallery-sugar-cubes.jpg')} alt="" /></div>        
+      <div className='item'><img src={imagen('./image-gallery-milkbottles.jpg')} alt="milkbottles" /></div>
+      <div className='item'><img src={imagen('./image-gallery-orange.jpg')} alt="orange" /></div>
+      <div className='item'><img src={imagen('./image-gallery-cone.jpg')} alt="cone" /></div>        
+      <div className='item'><img src={imagen('./image-gallery-sugar-cubes.jpg')} alt="sugar-cubes" /></div>        
         
     </Div>
   )
