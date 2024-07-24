@@ -15,10 +15,10 @@ export default function ItemText(props) {
     return (
         <Div className='container_item'>
             <div className='item'>
-                <div className='item_img' id='bg-imagen'>
+                <div className='item_img'>
                     <img src={width < '767px' ? desktop(props.img) : mobile(props.img)} alt="" />
                 </div>
-                <div className='item_text' id='text'>
+                <div className='item_text'>
                     <h2 className='item__tittle'>{props.titulo}</h2>
                     <p className='item__descripcion'>{props.descripcion}</p>
                 </div>
@@ -40,7 +40,7 @@ const Div = styled.div`
         width: 100%;
     }
 
-    #text{
+    .item_text{
         position: absolute;
         /* border: 2px solid red; */
         width: 50%;
